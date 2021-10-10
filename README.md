@@ -1,2 +1,2 @@
-# Metropia_BE_Hoeyoung
-메트로피아 백엔드 이회영
+# Metropia_BE
+메트로피아 백엔드
